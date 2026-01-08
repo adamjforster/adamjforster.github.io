@@ -1,0 +1,35 @@
+domain: adamjforster.github.io
+url: https://adamjforster.co
+baseurl: ""
+title: "Adam J. Forster"
+description: "Adam J. Forster | Hands-on Engineering Lead (Python / Django)"
+
+theme: cvless
+
+taglong: "Hands-on Engineering Lead (Python / Django)"
+tagshort: "Hands-on Engineering Lead"
+
+author:
+  name: "Adam J. Forster"
+
+photo: assets/avatar.png
+
+profile:
+  linkedin: https://www.linkedin.com/in/adamjforster
+  github: https://github.com/adamjforster
+  cv: false
+
+
+# Build settings.
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  style: compressed
+  sourcemap: never
