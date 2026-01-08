@@ -4,7 +4,6 @@ baseurl: ""
 title: "Adam J. Forster"
 description: "Adam J. Forster | Hands-on Engineering Lead (Python / Django)"
 
-theme: cvless
 remote_theme: piazzai/cvless
 
 taglong: "Hands-on Engineering Lead (Python / Django)"
